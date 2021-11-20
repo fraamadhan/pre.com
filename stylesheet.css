@@ -1,0 +1,14 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image1 {
+    background-color: #f9816b;
+}
+
+.play {
+    background-color: white;
+    margin-left: 10%;
+}
